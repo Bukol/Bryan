@@ -1,0 +1,7 @@
+{
+  "name": "BuildTrack Pro",
+  "description": "A comprehensive construction project management system with role-based access, real-time subcontractor performance tracking, and mobile-optimized site logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
